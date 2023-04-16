@@ -1,0 +1,41 @@
+[
+	{
+		"activities": [],
+		"balance": 1000,
+		"fullname": "Almog Ohayon",
+		"isAdmin": true,
+		"password": "almog123456",
+		"prefs": {
+			"color": "#000000",
+			"bgColor": "#ffffff"
+		},
+		"username": "almogo",
+		"_id": "user1"
+	},
+	{
+		"activities": [],
+		"balance": 1000,
+		"fullname": "puki unknowforever",
+		"isAdmin": false,
+		"password": "pukpuk123",
+		"prefs": {
+			"color": "#000000",
+			"bgColor": "#ffffff"
+		},
+		"username": "puki1",
+		"_id": "user2"
+	},
+	{
+		"activities": [],
+		"balance": 1000,
+		"fullname": "Dwayne Johnson",
+		"isAdmin": false,
+		"password": "dj123",
+		"prefs": {
+			"color": "#000000",
+			"bgColor": "#ffffff"
+		},
+		"username": "therock",
+		"_id": "user3"
+	}
+]
